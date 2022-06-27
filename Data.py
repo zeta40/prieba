@@ -14,25 +14,25 @@ You can use this bot to convert
 
 Send Multiple images or stickers and it will work the same
 
-By @StarkBots
+By @nautaii
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton("✨  Bot Status and More Bots ✨", url="https://t.me/chditoo")],
+        [InlineKeyboardButton(text="🏠 VOLVER ATRÁS 🏠", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/nautaii")
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ DESAROLLADOR ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/chditoo")],
     ]
 
     # Help Message
@@ -44,20 +44,20 @@ You Really Need Help ?!?!?!?!
 
 Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
 
-More features in development. Keep track by joining @StarkBots.
+More features in development. Keep track by joining @nautaii.
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @nautaii
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+Source Code : [@nautai)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Framework : [Pyrogram](😌)
 
-Language : [Python](www.python.org)
+Language : [Python]
 
-Developer : @StarkProgrammer
+Developer : @nautaii
     """

@@ -1,8 +1,8 @@
-# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
+# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/nautaii)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StickerToolsBot"><img src="https://telegra.ph/file/0abe9c29410965545218f.png" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StickerToolsBot"><img src="https://telegra.ph/file/0055e0a2ca2f304bdc508.jpg" width="5000"></a></p>
 
 Telegram bot with various Sticker Tools
 
@@ -12,7 +12,7 @@ Telegram bot with various Sticker Tools
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StickerToolsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeta40/prieba)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot with various Sticker Tools
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StickerToolsBot
+   git clone https:https://github.com/zeta40/prieba
    ```
 
 2. Edit `Config.py` and fill the needed variables
@@ -65,14 +65,14 @@ Telegram bot with various Sticker Tools
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@nautai](https://t.me/chditoo)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@Chat](https://t.me/chditoo)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://t.me/chditoo)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://t.me/chditoo)
