@@ -4,47 +4,45 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+Hey  {}
+Bienvenido 😁
 
-Welcome to {}
+Yo hago sticker y fotos
+1) Sí me envías un esticker crearé una imagen
+2) Sí me envías una imagen crearé un esticker
 
-You can use this bot to convert
-1) Sticker to Image
-2) Image to Sticker
-
-Send Multiple images or stickers and it will work the same
-
+🤗🤗🤗🤗🤗
 By @nautaii
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨  Bot Status and More Bots ✨", url="https://t.me/chditoo")],
+        [InlineKeyboardButton("✨  OPINAR :) ✨", url="https://t.me/stikerino")],
         [InlineKeyboardButton(text="🏠 VOLVER ATRÁS 🏠", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/nautaii")
+            InlineKeyboardButton("✨ OPINAR :) ✨", url="https://t.me/nautaii")
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ DESAROLLADOR ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/chditoo")],
+        [InlineKeyboardButton("♥ DESAROLLADOR ♥", url="https://t.me/nautaii")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/stikerino")],
     ]
 
     # Help Message
     HELP = """
 You Really Need Help ?!?!?!?!
 
-1) Send Sticker to get Image
-2) Send Image to get Sticker
+1) Envíame un sticker para crear una imagen
+2) Envíame una imagen para crear un sticker
 
-Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
+Nota : VAMOS A TROLEAR😂
 
-More features in development. Keep track by joining @nautaii.
+BOT CREADO POR @nautaii.
     """
 
     # About Message

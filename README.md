@@ -65,14 +65,14 @@ Telegram bot with various Sticker Tools
 
 ## Support
 
-Channel :- [@nautai](https://t.me/chditoo)
+Channel :- [@nautai](https://t.me/stikerino)
 
-Group Chat :- [@Chat](https://t.me/chditoo)
+Group Chat :- [@Chat](https://t.me/stikerino)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://t.me/chditoo)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://t.me/stikerino)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://t.me/chditoo)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://t.me/stikerino)
