@@ -27,7 +27,7 @@ By @nautaii
         ],
         [
             InlineKeyboardButton("AYUDA😋", callback_data="help"),
-            InlineKeyboardButton("🎪 INFORMACION 🎪", callback_data="about")
+            InlineKeyboardButton("🎪 INFORMACIO N 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("♥ DESAROLLADOR ♥", url="https://t.me/nautaii")],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/stikerino")],
@@ -35,7 +35,7 @@ By @nautaii
 
     # Help Message
     HELP = """
-You Really Need Help ?!?!?!?!
+💚COMO USARME💚
 
 1) Envíame un sticker para crear una imagen
 2) Envíame una imagen para crear un sticker
