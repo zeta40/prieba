@@ -26,8 +26,8 @@ By @nautaii
             InlineKeyboardButton("✨ OPINAR :) ✨", url="https://t.me/nautaii")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("AYUDA😋", callback_data="help"),
+            InlineKeyboardButton("🎪 INFORMACION 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("♥ DESAROLLADOR ♥", url="https://t.me/nautaii")],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/stikerino")],
